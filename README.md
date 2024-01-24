@@ -1,4 +1,4 @@
-# Indian-Stratup-s-Analys
+# Indian-Stratup-s-Anal
 **Project Title: Indian Startup Analysis**
 
 **Overview:**
