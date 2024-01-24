@@ -1,4 +1,4 @@
-# Indian-Strat
+# Indian-St
 **Project Title: Indian Startup Analysis**
 
 **Overview:**
