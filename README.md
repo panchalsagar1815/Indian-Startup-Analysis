@@ -1,5 +1,4 @@
-#
- **Project Title: Indian Startup Analysis**
+#**Project Title: Indian Startup Analysis**
 
 **Overview:**
 The "Indian Startup Analysis" project delves into the dynamic landscape of startups in India, exploring crucial features such as Startup Name, Industry, Vertical, SubVertical, City, Location, Investors Name, Investment Type, Amount in USD, Remarks, and Location Revenue. This project not only sheds light on the current state of the Indian startup ecosystem but also employs advanced data analysis and machine learning techniques to predict revenue and gain insights into potential trends.
